@@ -1,0 +1,2 @@
+# ScholarBot
+Magnus Opus
