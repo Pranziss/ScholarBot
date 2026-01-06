@@ -1,4 +1,4 @@
-# ScholarBot
+# NovaScholar
 Magnum Opus
 
 - Will contain voice for ai - toggle on and off
